@@ -8,8 +8,8 @@ Website for 4 types of users: Customer, Staff Manager, Shipper, Admin
 ## Images
 <h3> User page </h3>
 <p float="center">
-  <img src="https://github.com/johnH872/milk-tea-order-website/assets/87011461/5a3bdd30-4c0e-4296-9c26-cc381f91447c" width="300"/>
-  <img src="https://github.com/johnH872/milk-tea-order-website/assets/87011461/5a259ff0-eb31-4f9e-bdd8-f2aa14865e8e" width="300"/> 
+  <img src="https://github.com/johnH872/milk-tea-order-website/assets/87011461/5a3bdd30-4c0e-4296-9c26-cc381f91447c" width="400"/>
+  <img src="https://github.com/johnH872/milk-tea-order-website/assets/87011461/5a259ff0-eb31-4f9e-bdd8-f2aa14865e8e" width="400"/> 
 </p>
 <p float="center">
   <img src="https://github.com/johnH872/milk-tea-order-website/assets/87011461/7b750220-2163-4742-9659-dda1b04bbc93" width="300"/>
