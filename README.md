@@ -7,7 +7,7 @@ Website for 4 types of users: Customer, Staff Manager, Shipper, Admin
 * Shipper can receive orders, cancel orders and manage their working days<br>
 ## Files and folders include:
 * 01_MilkTeaOrderWebsite: Backend built with java (100% complete)
-* ReactJs_MilkTeaOrderWebsite: Frontend built with ReactJS(30% complete)
+* ReactJs_MilkTeaOrderWebsite: Frontend built with ReactJS (30% complete)
 * OOAD_Report: Report about system design (class diagrams, collaboration diagrams, sequence diagrams)
 ## Images
 <h3> User page </h3>
